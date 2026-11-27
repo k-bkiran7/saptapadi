@@ -16,4 +16,4 @@ A small wedding-memory website for Kiran and Bhagyashri.
 
 ## Deploy
 This repository contains a static site. The entry point is `index.html`.
-Connect the repository to Cloudflare Workers Builds to deploy on each push to the configured branch.
+Cloudflare Workers Builds is connected to this repository. Pushes to the configured production branch should trigger deployments.
